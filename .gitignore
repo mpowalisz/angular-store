@@ -4,6 +4,9 @@
 # /dist/
 /dist/
 
+# Firebase
+**/.firebaserc
+
 # Logs
 logs
 *.log

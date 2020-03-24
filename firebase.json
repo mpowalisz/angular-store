@@ -1,8 +1,8 @@
 {
   "hosting": [
     {
-      "target": "store",
-      "public": "dist/store",
+      "target": "angular-store",
+      "public": "dist/angular-store",
       "ignore": [
         "firebase.json",
         "**/.*",
